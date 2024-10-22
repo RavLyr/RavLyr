@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on laravel<br>🤝 I’m looking for help with Vue<br>🌱 I’m currently learning Vue<br>
+🔭 I’m currently working on laravel<br>🤝 I’m looking for help with Vue<br>🌱 I’m currently learning ReactJS<br>
 
 
 ## 🌐 Socials:
